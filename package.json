@@ -13,9 +13,9 @@
     "stop": "echo 'No stop functionality (use Ctrl+C to stop)'",
     "restart": "echo 'No restart functionality (use manual restart)'"
   },
-  "author": "MalvinTechInc",
+  "author": "𝐋𝚵𝚭𝐊𝐔𝐒𝚮-𝚻𝚳𝐃",
   "license": "ISC",
-  "description": "malvin-xd pair",
+  "description": "𝐋𝚵𝚭𝐊𝐔𝐒𝚮-𝚻𝚳𝐃 pair",
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
     "qrcode": "^1.5.4",
